@@ -6,5 +6,5 @@ methods from the MobilePhone class depending on user's input
 
 
 
-Java exercise no 44 made from scrach in the Java Programming Masterclass course
+Java exercise no 44 made from scratch in the Java Programming Masterclass course
 No bugs aotm
